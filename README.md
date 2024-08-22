@@ -1,6 +1,6 @@
 # HR-Dashboard-MySQL-PowerBI
 
- Analysis - SQL & PowerBi\HR.png".png)
+![My Image](HR.png)
 
 ## Data Used
 
