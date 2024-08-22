@@ -1,6 +1,6 @@
 # HR-Dashboard-MySQL-PowerBI
 
-![image]("C:\Users\mlung\OneDrive\Desktop\Portfolio Projects\HR Analysis - SQL & PowerBi\HR.png".png)
+ Analysis - SQL & PowerBi\HR.png".png)
 
 ## Data Used
 
