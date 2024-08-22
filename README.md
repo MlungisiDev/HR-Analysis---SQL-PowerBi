@@ -1,6 +1,6 @@
 # HR-Dashboard-MySQL-PowerBI
 
-<img src=""C:\Users\mlung\OneDrive\Desktop\Portfolio Projects\HR Analysis - SQL & PowerBi\HR.png"" alt="Alt text" title=" HR">
+<img src=""C:\Desktop\Portfolio Projects\HR Analysis - SQL & PowerBi\HR.png"" alt="Alt text" title=" HR">
 
 ## Data Used
 
